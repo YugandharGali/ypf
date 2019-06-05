@@ -1,0 +1,60 @@
+{
+    "experience":[
+    	{
+            "type":"Work",
+            "institution":"NIIT Technologies India Pvt Ltd",
+            "title":"Senior Software Engineer",
+            "from":"2010-08-23",
+            "to":"2015-04-03",
+            "description":"Working closely with Business Analysts, Project Managers and Project Leaders. Clearly understanding the client’s requirements through Detail Design Specifications. Involved in writing various Business Objects and Utility classes. Involved in writing client side and Sever side validation based on the Business rules. Involved in UAT, FAT and SAT testing. Involving in Production bug fixes and enhancements. Involving in Production deployment activities. ",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Crimson Logic India Pvt Ltd",
+            "title":"Senior Software Engineer",
+            "from":"2015-04-06",
+            "to":"2015-12-18",
+            "description":"Implementing Govt online services using Spring MVC, Hibernate. Implementing Billing system to generate payment details for Govt online services.  Implementing payment gateway API for online and offline payments. Implementing various REST web services to communicate with Bank for payments. Implemented various REST web services to exchange date between Govt online services. Involving in UAT bug fixes and enhancements.",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"ROBERT BOSCH India ",
+            "title":"Senior Engineer",
+            "from":"2015-12-21",
+            "to":"2016-07-30", 
+            "description":"Whole responsible of Visualization service to retrieve 2D and 3D geometry images. Geometry images exchange between service (VisService) and .NET application (vis@).  Implementing web service repository screens using Struts and hibernate. Involving in WSO2 API Management and ESB configuration. Involving in Production bug fixes and enhancements.",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Wallenius Wilhelmsen Logistics, Bangkok",
+            "title":"Senior Java Developer",
+            "from":"2016-08-01",
+            "to":"2018-11-30", 
+            "description":"Responsible for all the Ocean web applications,Implementing Ocean online services using AngularJS, Spring, Struts and Hibernate.Implementing various REST webservice to communicate third party applications.Implementing the EhCaching technique to maintain second level cache.Involving in Design and Architectural flow of Ocean operations. Working with Microsoft Azure and Tibco BW for integration services. Designing technical documents for new functions and change requests. Involving in production deployment and maintenance. ",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Allianz Technology Thailand, Bangkok",
+            "title":"Expert Full Stack Java Developer",
+            "from":"2016-12-03",
+            "to":"", 
+            "description":"Responsible for all the Ocean web applications,Implementing Ocean online services using AngularJS, Spring, Struts and Hibernate.Implementing various REST webservice to communicate third party applications.Implementing the EhCaching technique to maintain second level cache.Involving in Design and Architectural flow of Ocean operations. Working with Microsoft Azure and Tibco BW for integration services. Designing technical documents for new functions and change requests. Involving in production deployment and maintenance. ",
+            "default_item":true
+        }
+    ],
+    "study":[
+        {
+            "type":"Education",
+            "institution":"Sri Venkateshwara University, Tirupati, India",
+            "title":"Master of Computer Applications (MCA) ",
+            "from":"2007-05-15",
+            "to":"2010-03-30",
+            "description":"Core subjects - Computer Applications, Computer Programming",
+            "default_item":false
+        }
+    ]
+}

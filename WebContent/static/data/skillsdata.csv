@@ -1,0 +1,62 @@
+id,value,color
+Yuga,,
+Yuga.UI,,
+Yuga.UI.HTML & CSS / Bootstrap,3,#E54F24
+Yuga.UI.JSON & XML,3.5,#1169AE
+Yuga.UI.JavaScript,,
+Yuga.UI.JavaScript.JavaScript,3,#D6BA33
+Yuga.UI.JavaScript.AngularJS,3,#E54F24
+Yuga.UI.JavaScript.TypeScript,3,#E54F24
+Yuga.Programing Language,,
+Yuga.Programing Language.Java,,
+Yuga.Programing Language.Java.Core Concepts,4,#EB2C2F
+Yuga.Programing Language.Java.JDBC,4,#D6BA33
+Yuga.Programing Language.Java.JSP & Servlets  ,4,#563B7E
+Yuga.Programing Language.Java.EJB & JPA & JMS,4,#0073AD
+Yuga.FrameWorks,,
+Yuga.FrameWorks.Springs & Springs Boot,3.6,#6DB33F
+Yuga.FrameWorks.Struts,3.5,#0073AD
+Yuga.FrameWorks.Hibernate,3.5,#563B7E
+Yuga.FrameWorks.Angular & NodeJS,3.5,#0073AD
+Yuga.FrameWorks.SOAP & REST API,3.5,#D6BA33
+Yuga.FrameWorks.SOA & Micro Services,3.5,#6DB33F
+Yuga.Database,,
+Yuga.Database.Oracle - SQL and PL/SQL,3.5,#E58E00
+Yuga.Database.MySQL & DB2,3,#00618A
+Yuga.Database.In-Memory - H2 DB,3.5,#00618A
+Yuga.Servers,,
+Yuga.Servers.WebLogic & WebSphere,4,#563B7E
+Yuga.Servers.JBoss & Apache Tomcat,4,#0073AD
+Yuga.IDE,,
+Yuga.IDE.Eclipse & STS,4,#563B7E
+Yuga.IDE.NetBeans & RAD,4,#005F0F
+Yuga.SDLC,,
+Yuga.SDLC.Agile,4,#563B7E
+Yuga.SDLC.Scrum,4,#6DB33F
+Yuga.SDLC.Kanban,4,#0073AD
+Yuga.SDLC.Waterfall,4,#E58E00
+Yuga.Integration,,
+Yuga.Integration.API Manager - WSO2 & Azure,4,#563B7E
+Yuga.Integration.API Gateway,4,#6DB33F
+Yuga.Integration.ESB & JMS,4,#0073AD
+Yuga.Workflow Management,,
+Yuga.Workflow Management.JBoss BPM,4,#59666C
+Yuga.Workflow Management.Camunda BPM,4,#563B7E
+Yuga.DevOps,,
+Yuga.DevOps.Docker,3.5,#524B6E
+Yuga.DevOps.Fiddler,3.5,#59666C
+Yuga.DevOps.CICD,,
+Yuga.DevOps.CICD.Jenkins & Hudson,4,#60934E
+Yuga.DevOps.GIT & SVN & TFS ,4,#0073AD
+Yuga.Cloud,,
+Yuga.Cloud.Cloud Foundry,4,#00A0D2
+Yuga.Cloud.AWS,4,#808080
+Yuga.Cloud.Google Cloud,4,#808080
+Yuga.Cloud.Openshift,4,#808080
+Yuga.Cloud.Heroku,3,#717130
+Yuga.Cloud.Microsoft Azure,4,#808080
+Yuga.Tools,,
+Yuga.Tools.Sonar Cube & jUnit,4,#00A0D2
+Yuga.Tools.Splunk,2.5,#0678BE
+Yuga.Tools.SoapUI & jMeter ,3,#063D7E
+Yuga.Tools.jProfiler & Eclipse MAT,3,#717130 
